@@ -1,5 +1,5 @@
-- 👋 Hey y'all, I’m @kotlinize and im here to hopefully kotlinize the world
-- 🌱 I’m interested in all projects, specifically those in the KOTLIN flavor
+- 👋 Hey everyone! I’m @kotlinize, but you can call me Mike, and im here to hopefully kotlinize the world.
+- 🌱 I’m interested in all projects, especially those in the KOTLIN flavor.
 - 💞️ I’m looking to collaborate on any mobile application or multiplatform applications
 - 📫 Email me at mreynolds@kotlinizer.com
 
